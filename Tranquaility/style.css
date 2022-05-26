@@ -46,3 +46,28 @@ nav{display: flex;
 .nav-links li a.active{
     background-color:#4caf50;
 }
+.paragraph1{
+    padding-left: 15ch;
+    padding-right: 15ch;
+    padding-top: 5ch;
+    padding-bottom: 5ch;
+    font-family:fantasy;
+    background-color:rgb(45, 86, 4);
+    color: white;
+}
+.Scholarship{
+    padding-left: 15ch;
+    padding-right: 15ch;
+    padding-top: 2ch;
+}
+.link{
+    padding-left: 5ch;
+    padding-right: 5ch;
+    padding-top: 2ch;
+}
+.ol{
+    padding-left: 2ch;
+}
+body{
+    background-color:darkkhaki;
+}
